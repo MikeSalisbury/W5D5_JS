@@ -1,0 +1,9 @@
+/* PHASE 5: Cats */
+.content-header {
+  background-image: url('/Users/appacademy/Desktop/W5D5/css-friends-05/images/cats.jpg');
+  background-size: cover;
+  margin: auto;
+  width: 900px;
+  height: 200px;
+  overflow: hidden;
+}
